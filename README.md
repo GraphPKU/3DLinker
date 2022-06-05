@@ -1,7 +1,8 @@
 # 3DLinker: An E (3) Equivariant Variational Autoencoder for Molecular Linker Design
 ## About
 This directory contains the code and resources of the following paper:
-[_"3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design"_](https://arxiv.org/abs/2205.07309)
+
+[_"3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design"._](https://arxiv.org/abs/2205.07309)
 1. 3DLinker is a 3D graph variational auto-encoder that is equivariant to rigid transformations and reflections (E(3) group). It takes two molecular fragments as input and generates a "linker" (both with graphs and spatial coordinates) attaching these two fragments.
 2. We thank the authors of [Deep generative models for 3D linker design](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b01120) for releasing their code. Our code is based on their source code release ([link](https://github.com/fimrie/DeLinker)).
 3. Please feel free to contact Yinan Huang yinan8114@gmail.com if you have issue using the code.
